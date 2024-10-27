@@ -1,0 +1,51 @@
+.backup-actions .btn i {
+    margin-right: 5px;
+}
+
+.backup-directories li {
+    font-size: 0.95rem;
+    color: #555;
+}
+
+#backupList {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#backupList::-webkit-scrollbar {
+    width: 10px;
+}
+
+#backupList::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+#backupList::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+}
+
+#backupList::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+
+.backup-list-container {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.backup-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.backup-actions button {
+    margin-left: 5px;
+}
