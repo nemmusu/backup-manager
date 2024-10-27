@@ -52,7 +52,7 @@ and backup configurations.
    Open a web browser and go to [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 ## Usage
-
+![Homepage](https://github.com/nemmusu/backup-manager/blob/main/screenshots/home.png)
 ### Creating a Backup
 1. Navigate to the main dashboard.
 2. Click the "Create Backup" button.
@@ -74,6 +74,8 @@ and backup configurations.
 ### User Management
 1. Admin users can manage user roles and account settings via the "User Management" panel.
 2. Standard users can change their passwords under the "Edit Profile" option.
+![User Management](https://github.com/nemmusu/backup-manager/blob/main/screenshots/user_management.png)
+![Edit User](https://github.com/nemmusu/backup-manager/blob/main/screenshots/edit_user.png)
 
 ## Requirements
 
